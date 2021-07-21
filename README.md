@@ -1,6 +1,8 @@
 ### Hi there, I'm John! 🏄🏻‍♂️
 
-_Some of the music I've been listening to recently B)_
+Check out my Last.fm Discord bot [Gowon](http://gowon.ca)!
+
+_Some of the music I've been listening to recently!_
 
 
 <!-- lastfm -->
