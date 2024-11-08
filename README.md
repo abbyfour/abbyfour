@@ -5,5 +5,5 @@ I'm a full-stack developer who loves to learn! I feel most comfortable working w
 Please don't hesitate to contact me!
 
 
-PS. Check out my Last.fm Discord bot [Gowon](http://gowon.ca)!
+PS. Check out my Last.fm Discord bot [Gowon](http://gowon.bot)!
 
